@@ -2,6 +2,7 @@
 //Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 //=========================================
 
+string? inputLineA = Console.ReadLine();
 string? inputLineB = Console.ReadLine();
 string? inputLineС = Console.ReadLine();
 
