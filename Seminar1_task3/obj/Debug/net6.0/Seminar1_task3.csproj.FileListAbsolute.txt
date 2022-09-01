@@ -1,0 +1,15 @@
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.csproj.AssemblyReference.cache
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.AssemblyInfoInputs.cache
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.AssemblyInfo.cs
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.csproj.CoreCompileInputs.cache
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/bin/Debug/net6.0/Seminar1_task3
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/bin/Debug/net6.0/Seminar1_task3.deps.json
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/bin/Debug/net6.0/Seminar1_task3.runtimeconfig.json
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/bin/Debug/net6.0/Seminar1_task3.dll
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/bin/Debug/net6.0/Seminar1_task3.pdb
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.dll
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/refint/Seminar1_task3.dll
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.pdb
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/Seminar1_task3.genruntimeconfig.cache
+/Users/aleksandrfilimonov/PractickC/PractickC/Seminar1_task3/obj/Debug/net6.0/ref/Seminar1_task3.dll
