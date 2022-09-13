@@ -27,6 +27,8 @@ int SumDigit (int num)
 }
 
 int numberA = ReadData("Введите число: ");
+DateTime d1 = DateTime.Now;
 int summ = SumDigit(numberA);
+Console.WriteLine(DateTime.Now - d1);
 PrintResult("Сумма цифр в числе = " + summ);
 
