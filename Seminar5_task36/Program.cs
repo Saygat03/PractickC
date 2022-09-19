@@ -39,8 +39,6 @@ void PrintArray(int[] array)
 
 void SummArray(int[] array)
 {
-    int[] sums = new int[array.Length];
-    List<int> sorted = new List<int>();
     int resultSumm = 0;
     for (int i = 0; i < array.Length; i++)
     {
