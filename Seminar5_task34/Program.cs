@@ -40,7 +40,6 @@ void PrintArray(int[] array)
 
 int[] ChangeArr(int[] array)
 {
-    int[] sums = new int[array.Length];
     List<int> sorted = new List<int>();
     for (int i = 0; i < array.Length; i++)
     {
